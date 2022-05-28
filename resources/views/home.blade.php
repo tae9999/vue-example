@@ -14,7 +14,6 @@
         <link rel="stylesheet" href="{{mix('/css/app.css')}}">
     </head>
     <body class="antialiased">
-        <h1>xxxx</h1>
         <div id="app"> 
             <Navbar></Navbar>
             <App></App>
